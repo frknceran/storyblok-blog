@@ -1,0 +1,23 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/furkanceran/Desktop/storyblok-blog/pages/about/index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_2aaeca9c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/furkanceran/Desktop/storyblok-blog/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0e41659e"
+  },
+  {
+    "name": "postId",
+    "path": "/:postId",
+    "component": "/Users/furkanceran/Desktop/storyblok-blog/pages/_postId/index.vue",
+    "chunkName": "pages/_postId/index",
+    "_name": "_96a6866e"
+  }
+]
